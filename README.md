@@ -119,7 +119,7 @@ for i in range(1, rows+1):
         print(coef, end = " ")
     print()
 ```
-## Sample Output
+## Output
 ![image](https://github.com/user-attachments/assets/f852768f-ddf9-4977-8f28-11abd2af690a)
 
 ## Result
