@@ -29,7 +29,7 @@ else:
     print("The given number {} is not a palindrome".format(num))
 ```
 ## Output
-![438319260-f5719231-1cc7-443a-9942-d40ff7ec1748](https://github.com/user-attachments/assets/ec3bd131-3b27-4062-8a19-f86eaf451d71)
+![image](https://github.com/user-attachments/assets/eea62bac-fb94-48a8-920b-8e6377bbe34e)
 
 ## Result
 Thus,the Python program that checks whether a given number is a palindrome using loops is created successfully.
